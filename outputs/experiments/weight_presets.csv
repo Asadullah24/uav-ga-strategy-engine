@@ -1,0 +1,5 @@
+preset,coverage,detection,energy,time,hazard,total_length
+Balanced (default),0.824,0.966,0.523,0.292,0.057,233.6
+Coverage-first,0.887,0.988,0.712,0.437,0.11,328.0
+Energy-saver,0.693,0.979,0.353,0.269,0.071,185.1
+Safety-first,0.818,0.982,0.525,0.319,0.041,234.8
